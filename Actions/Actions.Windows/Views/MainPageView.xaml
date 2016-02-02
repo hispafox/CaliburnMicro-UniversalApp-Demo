@@ -27,7 +27,7 @@
                 </ListView.ItemTemplate>
             </ListView>
         </StackPanel>-->
-        <Hub x:Name="MainHub">
+        <Hub x:Name="MainHub" >
             <HubSection Header="Prima sezione">
                 <DataTemplate>
                     <TextBlock Text="{Binding Title}" />

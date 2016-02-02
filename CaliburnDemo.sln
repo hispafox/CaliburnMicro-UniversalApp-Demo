@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30501.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basic", "Basic", "{04A8AB9C-3822-4FAF-AFD0-46456CF366DA}"
 EndProject
@@ -321,5 +321,8 @@ Global
 		{09E6503B-7DA5-413D-ADA4-BFBD63F7ED11} = {C277E5C2-FE5E-439B-9B02-07C75C77EFC3}
 		{69828E60-87B6-47A4-86D2-7DC961689164} = {C277E5C2-FE5E-439B-9B02-07C75C77EFC3}
 		{CD65E057-79CE-4E65-B24E-1409B0813472} = {C277E5C2-FE5E-439B-9B02-07C75C77EFC3}
+	EndGlobalSection
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = 671fd7dd-d512-4c12-a5cd-bfa5e366bf54
 	EndGlobalSection
 EndGlobal
